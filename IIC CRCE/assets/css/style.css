@@ -142,7 +142,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #16507b;
+  color: #000000;
 }
 
 #header .logo img {
@@ -185,7 +185,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #16507b;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
   font-weight: 700;
