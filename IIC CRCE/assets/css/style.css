@@ -2142,3 +2142,17 @@ ul li a.active {
 .addon.fadein {
   opacity: 1;
 }
+
+
+#gal-space
+{
+  display: flex;
+  margin: 0 1em;
+}
+
+.incubation-vid
+{
+  border-radius: 1rem;
+  border: solid 0.125em #2487ce;
+  padding: 0.25em;
+}
